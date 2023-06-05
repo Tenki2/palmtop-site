@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: white;
+    
+  }
+  
+  header {
+    background-color: #33333300;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  .series {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust the height as per your requirement */
+  }
+  .center-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh; /* Adjust the height as per your requirement */
+  }
+  
+  
