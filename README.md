@@ -11,4 +11,4 @@ Please feel free to commit or add things to the to-do list.
     * 
 * [Look into Jekyll](https://jekyllrb.com "Jekyll's Homepage")
 * Look at free fronts that look similar to Blambot Laffayette
-* Is a members page a good idea?? becuase what we are doing isnt realllly a legal thing 😵
+* Is a members page a good idea?? becuase what we are doing isnt realllly a legal thing 😵, but i suppose our if someone wanted to find us they could just look at the discord server 
