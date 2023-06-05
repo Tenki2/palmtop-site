@@ -1,3 +1,10 @@
+* {
+  cursor: url(/content/logo.png), auto;
+  -webkit-animation: cursor 800ms infinite;
+  animation: cursor 800ms infinite; 
+}
+
+
 body {
     background-color: black;
     color: white;
@@ -104,13 +111,10 @@ body {
     src: url(content/fonts/Cicle-Gordita.ttf);
   }
 
-* {
-  cursor: url(/content/cursor/frame_00_delay-0.05s.png), auto;
-  -webkit-animation: cursor 800ms infinite;
-  animation: cursor 800ms infinite;
-}
+
 
 @-webkit-keyframes cursor { /*OMG thanks ChatGPT you are a life saveer 🙏*/
+
   0% {cursor: url(/content/cursor/frame_00_delay-0.05s.png), auto;}
   3.4483% {cursor: url(/content/cursor/frame_01_delay-0.05s.png), auto;}
   6.8966% {cursor: url(/content/cursor/frame_02_delay-0.05s.png), auto;}

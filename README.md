@@ -3,6 +3,8 @@
 # and also dosnt work on github pages!!
 # if i look at the content locally the content folder is there but the images arent showing and on github the folder just isnt there.....
 
+# update!! cursor works on neocities for some reason. i checked the console of local file and github and both are 404 when trying to get the images so something funky is happening...
+
 ## palmtop-site
 
 # to-do:
