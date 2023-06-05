@@ -54,7 +54,7 @@ body {
   }
   
   .series div {
-    margin-bottom: 50px;
+    /*margin-bottom: 50px;*/
   }
   
   .manga {
@@ -103,24 +103,6 @@ body {
     font-family: Cicle;
     src: url(content/fonts/Cicle-Gordita.ttf);
   }
-/*
-  html {
-    cursor: url('content/2.gif'), help;
-  }
-
-
-  #container {
-    cursor   : none;
- }
- 
- #cursor {
-   position  : absolute;
-   z-index   : 10000;
-   width     : 40px;
-   height    : 40px;
-   background: transparent url(/content/2.gif) 0 0 no-repeat;
- }
-*/
 
 * {
   cursor: url(/content/cursor/frame_00_delay-0.05s.png), auto;
