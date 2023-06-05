@@ -17,4 +17,5 @@
 * add FAQ page
     * 
 * [Look into Jekyll](https://jekyllrb.com "Jekyll's Homepage")
+* [MD API help](https://api.mangadex.org/docs/guide/get-chapters/ "MD API docs")
 
