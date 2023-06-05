@@ -8,6 +8,7 @@ body {
     background-color: #33333300;
     padding: 20px;
     text-align: center;
+    font-size: 300%;
   }
   
   nav {
@@ -24,12 +25,21 @@ body {
   main {
     padding: 20px;
   }
-  .series {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Adjust the height as per your requirement */
+
+  table {
+    width: 100%;
+    table-layout: fixed;
   }
+  .series {
+    display: grid;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    /*height: 30vh; /* Adjust the height as per your requirement */
+    text-align: center;
+    font-size: 200%;
+  }
+  
   .center-text {
     display: flex;
     justify-content: center;
@@ -37,4 +47,35 @@ body {
     height: 10vh; /* Adjust the height as per your requirement */
   }
   
+  .series div {
+    margin-bottom: 50px;
+  }
   
+  .manga {
+    /*height: 10vh;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .manga img {
+    height: 25%; 
+    width: 25%;
+    
+  }
+  
+  .manga-title {
+    font-size: 40px;
+  }
+
+  .manga-author {
+    font-size: 30px;
+
+  }
+
+  .title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+  }
