@@ -9,6 +9,7 @@ body {
     padding: 20px;
     text-align: center;
     font-size: 300%;
+    font-family: All_Things_Pink;
   }
   
   nav {
@@ -30,6 +31,11 @@ body {
     width: 100%;
     table-layout: fixed;
   }
+
+  main {
+    font-family: All_Things_Pink;
+  }
+
   .series {
     display: grid;
     flex-direction: row;
@@ -37,7 +43,7 @@ body {
     align-items: flex-start;
     /*height: 30vh; /* Adjust the height as per your requirement */
     text-align: center;
-    font-size: 200%;
+    font-size: 300%;
   }
   
   .center-text {
@@ -78,4 +84,23 @@ body {
     justify-content: center;
     align-items: center;
     padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: Cicle;
+    font-size: 100px;
   }
+
+  @font-face {
+    font-family: Laffayette;
+    src: url(content/fonts/Laffayette_Comic_Pro.ttf);
+}
+
+  @font-face {
+    font-family: All_Things_Pink;
+    src: url(content/fonts/AllThingsPink-r5vA.ttf);
+  }
+
+  @font-face {
+    font-family: Cicle;
+    src: url(content/fonts/Cicle-Gordita.ttf);
+  }
+
