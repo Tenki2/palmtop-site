@@ -1,5 +1,10 @@
+# uhh the cursor is being weird
+# it works on the local server but not locally?!??!!?!
+# and also dosnt work on github pages!!
+# if i look at the content locally the content folder is there but the images arent showing and on github the folder just isnt there.....
+
 ## palmtop-site
-Please feel free to commit or add things to the to-do list. 
+
 # to-do:
 
 * Add series on homepage
@@ -10,5 +15,4 @@ Please feel free to commit or add things to the to-do list.
 * add FAQ page
     * 
 * [Look into Jekyll](https://jekyllrb.com "Jekyll's Homepage")
-* Look at free fronts that look similar to Blambot Laffayette
-* Is a members page a good idea?? becuase what we are doing isnt realllly a legal thing 😵, but i suppose our if someone wanted to find us they could just look at the discord server 
+
