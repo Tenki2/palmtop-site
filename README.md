@@ -1,6 +1,8 @@
-# palmtop-site
+# palmtop site
 
-# update!! cursor works on neocities for some reason. i checked the console of local file and github and both are 404 when trying to get the images so something funky is happening...
+### update!! cursor works on neocities for some reason. i checked the console of local file and github and both are 404 when trying to get the images so something funky is happening...
+
+### for API calls we have two options, 1: leave it as a client side site that just querys every reload of the page (possible rate limits?), or 2: we can have a DB (I dont know anything about DBs or a text file that gets updated every 1hr with the api calls and then the site pulls data from the text file to reduce API calls). 1 is easier 2 is more practical.
 
 ## to-do:
 
