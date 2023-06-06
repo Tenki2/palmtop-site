@@ -18,4 +18,7 @@
     * 
 * [Look into Jekyll](https://jekyllrb.com "Jekyll's Homepage")
 * [MD API help](https://api.mangadex.org/docs/guide/get-chapters/ "MD API docs")
-
+* https://api.mangadex.org/chapter?groups%5B%5D=ba1f672b-88f2-427e-9aa8-22c94b43ed58&manga=733fc3ac-deca-444e-bb79-14186e00ccf1&order[readableAt]=desc&limit=1&includes[]=scanlation_group API query to get latest chapter of SH
+* https://grafana.com
+* SH UUID: 733fc3ac-deca-444e-bb79-14186e00ccf1
+* Palmtop UUID: ba1f672b-88f2-427e-9aa8-22c94b43ed58
